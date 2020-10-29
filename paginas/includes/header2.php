@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="public/fonts/icomoon/icomoon.css">
 
     <!-- css -->
-    <link rel="stylesheet" href="public/css/meuCssAula9.css">
+    <link rel="stylesheet" href="public/meuCssAula9.css">
 
     <title>Currículo</title>
 </head>

@@ -13,6 +13,18 @@ if ($paginas) {
         case 'inicial':
             include_once "paginas/inicial.php";
             break;
+        case 'educacao':
+            include_once "paginas/educacao.php";
+            break;
+        case 'empresa1':
+            include_once "paginas/empresa1.php";
+            break;
+        case 'empresa2':
+            include_once "paginas/empresa2.php";
+            break;
+        case 'empresa3':
+            include_once "paginas/empresa3.php";
+            break;
 
         default:
             # code...
